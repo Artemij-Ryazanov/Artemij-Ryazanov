@@ -1,4 +1,6 @@
-[README.md.txt](https://github.com/user-attachments/files/21004867/README.md.txt)## Hi there 👋
+[README.md.txt](https://github.com/user-attachments/files/21004867/README.md.txt)
+
+## Hi there 👋
 
 ОБРАЗОВАНИЕ: Кемеровский государственный университет, магистр
 
